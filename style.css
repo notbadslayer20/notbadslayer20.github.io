@@ -116,3 +116,13 @@ footer {
   margin-right: 8px;
   color: #ffffff;
 }
+
+.tos a {
+  color: #5865f2;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.tos a:hover {
+  text-decoration: underline;
+}
